@@ -1,0 +1,1 @@
+Olá, essa nota tem as instruções do meu projeto GIT.
